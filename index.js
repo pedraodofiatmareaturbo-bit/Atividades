@@ -70,7 +70,8 @@ for (let i = 1; i <= 50; i++) {
 console.log(soma) 
 
 //questao 15
-let calc = "" let numerinho = 5;
+let calc = "";
+let numerinho = 5;
 for (let i = 1; i <= 10; i++) { calc += numerinho + " * " + i + " = " + numerinho * i + "\n" } console.log(calc);
 
 //questao 16
